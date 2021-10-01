@@ -9,6 +9,6 @@
 * Then write a postman test to set the "x-auth-token" in http header for authentication purposes.
 
 # Tech Stack
-*Node.js
-*express.js
-*mongoDB
+* Node.js
+* express.js
+* mongoDB
